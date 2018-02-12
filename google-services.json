@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "931162730643",
+    "firebase_url": "https://cloud-memo-a659e.firebaseio.com",
+    "project_id": "cloud-memo-a659e",
+    "storage_bucket": "cloud-memo-a659e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931162730643:android:763d98c7a0f26673",
+        "android_client_info": {
+          "package_name": "com.ik.firebase.cloudmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931162730643-6n6qmcsffm73nglbqigmoiuk8s1eo60b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3kf2Ao2QzRotumAAj7_tbUFGP09Bw3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
